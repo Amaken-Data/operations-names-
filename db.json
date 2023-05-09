@@ -1,21 +1,17 @@
 {"operation":[
-    {
-    "id": 1,
-    "name": "ELMEGDAD MAHGOUB",
-    "image": "meghdad.jpeg"
-  },
+  
   {
-    "id": 2,
+    "id": 1,
     "name": "ABDELRAHMAN ADEL",
     "image": "rehman.jpeg"
   },
   {
-    "id": 3,
+    "id": 2,
     "name": "SULEMAN BERTHE",
     "image": "salman.jpeg"
   },
   {
-    "id": 4,
+    "id": 3,
     "name": "Qasim Maqsood",
     "image": "qasim.jpg"
   }
